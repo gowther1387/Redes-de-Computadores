@@ -27,3 +27,6 @@ Se tiver sugestões ou quiser discutir algum tópico, sinta-se à vontade para a
 ---
 
 Feito com 💙 para o aprendizado.
+
+
+OBS.: esta em preparação
